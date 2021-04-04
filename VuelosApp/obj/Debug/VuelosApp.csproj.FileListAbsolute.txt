@@ -1,0 +1,20 @@
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\VuelosApp\bin\Debug\VuelosApp.exe.config
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\VuelosApp\bin\Debug\VuelosApp.exe
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\VuelosApp\bin\Debug\VuelosApp.pdb
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\VuelosApp\bin\Debug\Classes.dll
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\VuelosApp\bin\Debug\Classes.pdb
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\VuelosApp\obj\Debug\VuelosApp.csprojAssemblyReference.cache
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\VuelosApp\obj\Debug\VuelosApp.csproj.CoreCompileInputs.cache
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\VuelosApp\obj\Debug\VuelosApp.csproj.CopyComplete
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\VuelosApp\obj\Debug\VuelosApp.exe
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\VuelosApp\obj\Debug\VuelosApp.pdb
+C:\Users\adria\Escritorio\Proyecto0Def\VuelosApp\bin\Debug\VuelosApp.exe.config
+C:\Users\adria\Escritorio\Proyecto0Def\VuelosApp\bin\Debug\VuelosApp.exe
+C:\Users\adria\Escritorio\Proyecto0Def\VuelosApp\bin\Debug\VuelosApp.pdb
+C:\Users\adria\Escritorio\Proyecto0Def\VuelosApp\bin\Debug\Classes.dll
+C:\Users\adria\Escritorio\Proyecto0Def\VuelosApp\bin\Debug\Classes.pdb
+C:\Users\adria\Escritorio\Proyecto0Def\VuelosApp\obj\Debug\VuelosApp.csprojAssemblyReference.cache
+C:\Users\adria\Escritorio\Proyecto0Def\VuelosApp\obj\Debug\VuelosApp.csproj.CoreCompileInputs.cache
+C:\Users\adria\Escritorio\Proyecto0Def\VuelosApp\obj\Debug\VuelosApp.csproj.CopyComplete
+C:\Users\adria\Escritorio\Proyecto0Def\VuelosApp\obj\Debug\VuelosApp.exe
+C:\Users\adria\Escritorio\Proyecto0Def\VuelosApp\obj\Debug\VuelosApp.pdb

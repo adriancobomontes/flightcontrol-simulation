@@ -1,0 +1,18 @@
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\Classes\bin\Debug\netstandard2.0\Classes.dll
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\Classes\bin\Debug\netstandard2.0\Classes.pdb
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\Classes\obj\Debug\netstandard2.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\Classes\obj\Debug\netstandard2.0\Classes.dll
+C:\Users\marsh\OneDrive\Documentos\Universitat\Primer Curs\2n Quatrimestre\PP\Proyecto0\Proyecto0Def\Classes\obj\Debug\netstandard2.0\Classes.pdb
+C:\Users\adria\Escritorio\Proyecto0Def\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+C:\Users\adria\Escritorio\Proyecto0Def\Classes\bin\Debug\netstandard2.0\Classes.dll
+C:\Users\adria\Escritorio\Proyecto0Def\Classes\bin\Debug\netstandard2.0\Classes.pdb
+C:\Users\adria\Escritorio\Proyecto0Def\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+C:\Users\adria\Escritorio\Proyecto0Def\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+C:\Users\adria\Escritorio\Proyecto0Def\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+C:\Users\adria\Escritorio\Proyecto0Def\Classes\obj\Debug\netstandard2.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\adria\Escritorio\Proyecto0Def\Classes\obj\Debug\netstandard2.0\Classes.dll
+C:\Users\adria\Escritorio\Proyecto0Def\Classes\obj\Debug\netstandard2.0\Classes.pdb
